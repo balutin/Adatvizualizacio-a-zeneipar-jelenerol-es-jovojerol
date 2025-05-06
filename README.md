@@ -1,5 +1,7 @@
 # Spotify Előadók – Adatvizualizációs Projekt
 
+https://public.flourish.studio/story/3083321/
+
 ## Miről szól a projekt?
 
 Ez a vizualizációs projekt a Spotify zenei streaming platform legnépszerűbb előadóit mutatja be adatvezérelt módon. A cél az, hogy különböző nézőpontokból elemezzük a zenei előadók jelenlegi és korábbi népszerűségét, megfigyeljük a trendeket (növekedés, visszaesés, stabilitás), és ezeket vizuálisan érthető módon mutassuk be.
